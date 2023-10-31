@@ -163,6 +163,6 @@ cython_debug/
 # Don't even know what this is
 cat_solver/e2e/
 
-cat_solver_server/db/
-cat_solver_server/pypy_server_env/
-cat_solver_server/solver-server-env/
+cat-solver-server/db/
+cat-solver-server/pypy_server_env/
+cat-solver-server/solver-server-env/
