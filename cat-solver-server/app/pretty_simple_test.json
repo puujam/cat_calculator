@@ -1,0 +1,12 @@
+{
+    "footprint": [
+        [ true, true, true ],
+        [ true, true, true ]
+    ],
+    "layers": 1,
+    "animalType": "dog",
+    "animals": [
+        "dark gray",
+        "light gray"
+    ]
+}
